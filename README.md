@@ -1,5 +1,3 @@
-![登录](./picture/登录.png)
-
 ![登录界面](./picture/登录界面.png)
 
 ![环境](./picture/环境.png)
@@ -21,3 +19,5 @@
 ![远程操作](./picture/远程操作.png)
 
 ![注册](./picture/注册.png)
+
+![登录](./picture/登录.png)
